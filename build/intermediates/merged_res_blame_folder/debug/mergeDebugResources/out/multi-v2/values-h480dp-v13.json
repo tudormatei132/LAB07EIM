@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-mergeDebugResources-31:/values-h480dp-v13/values-h480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MAT\\.gradle\\caches\\9.8.1\\transforms\\62776d0843a3376920097c269f272ae4\\transformed\\material-1.13.0\\res\\values-h480dp-v13\\values-h480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

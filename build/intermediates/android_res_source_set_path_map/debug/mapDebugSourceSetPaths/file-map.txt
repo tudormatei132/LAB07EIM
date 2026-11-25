@@ -1,0 +1,8 @@
+ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-pngs-0 C:\Users\MAT\AndroidStudioProjects\Laborator07\app-skel-kotlin\build\generated\res\pngs\debug
+ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-updated_navigation_xml-1 C:\Users\MAT\AndroidStudioProjects\Laborator07\app-skel-kotlin\build\generated\updated_navigation_xml\debug
+ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-packageDebugResources-2 C:\Users\MAT\AndroidStudioProjects\Laborator07\app-skel-kotlin\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-packageDebugResources-3 C:\Users\MAT\AndroidStudioProjects\Laborator07\app-skel-kotlin\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-4 C:\Users\MAT\AndroidStudioProjects\Laborator07\app-skel-kotlin\build\intermediates\merged_res\debug\mergeDebugResources
+ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-5 C:\Users\MAT\AndroidStudioProjects\Laborator07\app-skel-kotlin\src\debug\res
+ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-6 C:\Users\MAT\AndroidStudioProjects\Laborator07\app-skel-kotlin\src\main\res
+gradleHome-0 C:\Users\MAT\.gradle

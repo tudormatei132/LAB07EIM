@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/layout_message_layout.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/layout/message_layout.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/xml_backup_rules.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/drawable_ic_person_add.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/drawable/ic_person_add.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/drawable_ic_bluetooth_searching.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/drawable/ic_bluetooth_searching.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/layout_activity_main.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/menu_menu_main_activity.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/menu/menu_main_activity.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/drawable_ic_bluetooth.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/drawable/ic_bluetooth.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/menu_menu_device_list.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/menu/menu_device_list.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/layout_device_list_item.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/layout/device_list_item.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/layout_activity_device_list.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ro.pub.cs.systems.eim.bluetoothchatapp.app-skel-kotlin-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]
